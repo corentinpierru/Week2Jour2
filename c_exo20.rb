@@ -6,7 +6,5 @@ ligne = "#"
 etage.times do
   puts ligne 
   ligne = ligne + "#"
-  #puts 
-  #"#{ligne.times do print "#" end}"
 end
 
